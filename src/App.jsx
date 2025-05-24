@@ -1,5 +1,5 @@
 
-import Counter from './Counter.jsx'
+import Contact from './Contact.jsx'
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
 
     return(
       <>
-        <Counter />
+        <Contact />
       </>
     )
 }
