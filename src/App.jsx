@@ -1,15 +1,15 @@
 
-import Contact from './Contact.jsx'
+import ComponentA from './ComponentA.jsx';
+import Countdown from './Countdown.jsx';
+import Dater from './Dater.jsx';
 
 function App() {
 
-  
-
     return(
       <>
-        <Contact />
+         <ComponentA />
       </>
     )
 }
 
-export default App
+export default App;
